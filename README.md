@@ -5,6 +5,28 @@
 </span>
 
 
+### 🏗 Frameworks
+
+- React
+- laravel
+- NextJs
+- Hardhat
+- Docker
+ 
+### 🧪 Languages
+
+- JavaScript & TypeScript
+- Python
+- Php
+- Solidity
+
+## 🍻 Fun Facts!
+- A normal coder
+
+
+## 📱 Connect With Me!
+
+
 <!--
 **noowxela/noowxela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
