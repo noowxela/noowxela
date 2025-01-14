@@ -8,10 +8,10 @@
 ### 🏗 Frameworks
 
 - React
-- laravel
 - NextJs
+- NuxtJS
 - Hardhat
-- Docker
+- laravel
  
 ### 🧪 Languages
 
