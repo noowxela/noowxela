@@ -23,7 +23,6 @@
 ## 🍻 Fun Facts!
 - A normal coder
 - Badminton Lover
-- 🧑🏻‍🎓 I graduated from Multimedia University Malaysia with a major in Computer Science, specializing in Data Science
 
 
 ## 📱 Connect With Me!
