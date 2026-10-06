@@ -4,6 +4,7 @@
     <span>My name is Alex and I'm a Full Stack Developer!</span>
 </span>
 
+<img src="assets/divider-foxorange.svg" width="100%" alt="">
 
 ### 🏗 Frameworks
 
@@ -12,13 +13,17 @@
 - NuxtJS
 - Hardhat
 - laravel
- 
+
+<img src="assets/divider-gold.svg" width="100%" alt="">
+
 ### 🧪 Languages
 
 - JavaScript & TypeScript
 - Python
 - Php
 - Solidity
+
+<img src="assets/divider-gold.svg" width="100%" alt="">
 
 ## 🍻 Fun Facts!
 - A normal coder
