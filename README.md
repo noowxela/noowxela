@@ -6,6 +6,13 @@
 
 <img src="assets/divider-foxorange.svg" width="100%" alt="">
 
+<a href="https://noowxela.github.io/klec-midvalley-infographic/#00"><img src="assets/card-klec-midvalley.gif" width="100%" alt="Mid Valley site analysis — a 3D scrollytelling map of the Abdullah Hukum transit hub in Kuala Lumpur."></a>
+
+<b>把吉隆坡 Mid Valley 的轨道与商场枢纽做成可滚动浏览的 3D 场地分析。</b>KL Eco City、The Gardens 和 Mid Valley Megamall，共九章，模型来自 OpenStreetMap，支持英文、中文和马来文。<br>
+<b>A 3D scrollytelling site analysis of the Mid Valley rail-and-mall hub in Kuala Lumpur.</b> KL Eco City, The Gardens, and Mid Valley Megamall in nine chapters, built from OpenStreetMap, in English, 中文, and Bahasa Malaysia.
+
+<img src="assets/divider-foxorange.svg" width="100%" alt="">
+
 <a href="https://github.com/noowxela/japan-trip"><img src="assets/card-japan-trip.svg" width="100%" alt="Japan Trip — day map and agenda for Kyoto, Nara, and Osaka, 6–12 Nov 2026."></a>
 
 <b>把 Notion 里的行程做成手机上的地图、日程和花费。</b>京都、奈良、大阪，2026 年 11 月 6–12 日。谁都能看，编辑用 PIN 解锁。<br>
