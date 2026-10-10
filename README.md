@@ -20,6 +20,14 @@
 
 <img src="assets/divider-foxorange.svg" width="100%" alt="">
 
+<a href="https://noowxela.github.io/hanabi-taikai/"><img src="assets/card-hanabi-taikai.svg" width="100%" alt="营火会小镇 — a pixel-art 3D browser game set in a Japanese campfire-festival town."></a>
+
+<b>把一座日式营火祭做成像素风 3D 网页游戏。</b>围着营火坐下，再去锦鲤池、夜市火车站、守夜塔和街机厅。<br>
+<b>A pixel-art 3D browser game set in a Japanese campfire-festival town.</b> Sit by the fire, then visit the koi pond, the night-market train, the watchtower, and the arcade.
+
+<img src="assets/divider-foxorange.svg" width="100%" alt="">
+
+
 ### 🏗 Frameworks
 
 - React
